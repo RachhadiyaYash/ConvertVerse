@@ -1,0 +1,45 @@
+#maincaroselcontainer {
+    background-color: rgb(240, 236, 236);
+}
+
+#hellotextmaincarousl {
+    color: rgb(50, 50, 50);
+    font-weight: 700;
+    font-family: 'Lora', serif;
+    font-size: 1.4rem;
+}
+
+#slogancarouesl {
+    color: rgb(50, 50, 50);
+    font-weight: 900;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.2rem;
+}
+
+#homeslidetext {
+    color: rgb(50, 50, 50);
+    text-align: left;
+    width: 92%;
+    font-weight: 700;
+    font-family: 'Lora', serif;
+}
+
+#betafeatures {
+    text-align: left;
+    font-size: 1.1rem;
+}
+
+@media (max-width: 767.98px) {
+    #betafeatures {
+        text-align: center;
+        /* Center text on mobile screens */
+        font-size: 14px;
+
+        /* Adjust font size for better readability on mobile */
+    }
+}
+
+#scroler::-webkit-scrollbar {
+    display: none;
+    /* Hide scrollbar for Chrome, Safari, and Opera */
+}
