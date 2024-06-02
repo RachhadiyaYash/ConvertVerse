@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ConvertVerse/static/css/main.17513e82.css",
+    "main.js": "/ConvertVerse/static/js/main.84b8a1f8.js",
+    "static/js/592.148815d2.chunk.js": "/ConvertVerse/static/js/592.148815d2.chunk.js",
+    "index.html": "/ConvertVerse/index.html",
+    "main.17513e82.css.map": "/ConvertVerse/static/css/main.17513e82.css.map",
+    "main.84b8a1f8.js.map": "/ConvertVerse/static/js/main.84b8a1f8.js.map",
+    "592.148815d2.chunk.js.map": "/ConvertVerse/static/js/592.148815d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17513e82.css",
+    "static/js/main.84b8a1f8.js"
+  ]
+}
