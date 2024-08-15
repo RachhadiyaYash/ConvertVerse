@@ -1,0 +1,42 @@
+/* Increase padding between menus and adjust top/bottom spacing */
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.navbar-brand {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 5vh;
+}
+
+/* Add padding to the individual menu items */
+.navbar-nav li {
+    padding: 10px;
+    font-size: 2vh;
+}
+
+/* Add hover effect to menu items */
+.navbar-nav li:hover {
+    background-color: #333;
+    /* Change the color as per your design */
+
+
+    /* Style for active menu item */
+
+}
+
+/* Change the color as per your design */
+
+
+/* Style for dropdown menu items */
+.dropdown-menu {
+    padding: 10px;
+}
+
+/* Hover effect for dropdown menu items */
+.dropdown-menu a:hover {
+    background-color: #444;
+    /* Change the color as per your design */
+    color: #fff;
+    /* Change the color as per your design */
+}
